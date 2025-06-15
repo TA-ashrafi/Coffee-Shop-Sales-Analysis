@@ -84,6 +84,7 @@ All files (Excel + screenshots if any) are in the root folder for direct access.
 
 **Tahseen Ashrafi**  
 Data Analyst | Excel Enthusiast  
+E-Mail : tahseenashrafi29@gmail.com
 [LinkedIn](https://www.linkedin.com/in/tahseen-ashrafi-489a4825a)
 
 ---

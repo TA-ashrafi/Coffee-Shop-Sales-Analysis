@@ -1,7 +1,7 @@
 # Coffee-Shop-Sales-Analysis
 A professional Power Pivot Excel dashboard analyzing 10,000+ rows of Coffee Shop sales data. Includes size-based categorization, time-based trends, product/category insights, and slicer-driven interactivity. Built with clean data modeling, DAX measures, and a visually rich interface — perfect for showcasing Excel analytics skills.
 
-#  Coffee Shop Sales Insights (Power Pivot Project)
+
 
 A detailed data analysis project built using **Microsoft Excel Power Pivot** that explores sales performance across various dimensions such as time, store location, product categories, and customer behavior. This project showcases strong skills in **data cleaning**, **data modeling**, **advanced DAX**, and **interactive dashboard creation**.
 
